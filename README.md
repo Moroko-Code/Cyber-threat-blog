@@ -1,4 +1,5 @@
 # Cyber-threat-blog
+<img width="682" height="800" alt="image" src="https://github.com/user-attachments/assets/8f11379a-15be-4f7e-bd6e-7625ce962ec2" />
 
 # 🕵️ APT43 Threat Group Summary
 
